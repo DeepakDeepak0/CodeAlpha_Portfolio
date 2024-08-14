@@ -66,10 +66,10 @@ const Skills = () => {
         <h1  className='text-blue-700 font-[800]  text-2xl'>Java</h1>
       </div>
 
-      <div data-aos="flip-left" className="card-6 lg:ml-7 mb-7 cursor-pointer hover:bg-[#ADD8E6] flex flex-col space-y-5 justify-center items-center w-[350px] p-4 bg-[#ffffff09] backdrop-blur-[4px] py-[20px] px-[40px] border-[1.3px] border-[solid] border-[black] rounded-[10px] shadow-md -z-20 hover:shadow-xl hover:scale-105 transition-all duration-500 lg:w-[300px] lg:h-[300px]">
+      {/* <div data-aos="flip-left" className="card-6 lg:ml-7 mb-7 cursor-pointer hover:bg-[#ADD8E6] flex flex-col space-y-5 justify-center items-center w-[350px] p-4 bg-[#ffffff09] backdrop-blur-[4px] py-[20px] px-[40px] border-[1.3px] border-[solid] border-[black] rounded-[10px] shadow-md -z-20 hover:shadow-xl hover:scale-105 transition-all duration-500 lg:w-[300px] lg:h-[300px]">
         <img className='rounded-full h-[150px] w-[155px] ' src={pic15} alt="" />
         <h1  className='text-blue-700 font-[800]  text-2xl'>SpringBoot</h1>
-      </div>
+      </div> */}
     </div>  
 
      <div className='Achievements-sec-1 md:bg-custom md:bg-no-repeat md:bg-contain md:bg-center  '>

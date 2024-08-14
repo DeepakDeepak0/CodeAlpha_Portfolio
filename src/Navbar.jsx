@@ -51,7 +51,7 @@ const Navbar = () => {
            <img src={pic} alt=""  className='bg-[#E5E5E5] h-12 w-12 rounded-full'/>
              <h1  className=' text-xl font-black cursor-pointer'>
                 DEEPA<span className='text-blue-700 text-xl'>K</span>
-                <p className='text-sm font-bold'>Web Developer</p>
+                <p className='text-sm font-bold '>Web Developer</p>
              </h1>            
         </div>
         <div className="right hidden lg:flex list-none space-x-10 text-xl font-medium">

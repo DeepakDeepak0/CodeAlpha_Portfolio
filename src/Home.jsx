@@ -32,7 +32,7 @@ const pic5= '/image_5.png';
           </div>
           
           <p className='text-sm md:text-xl text-justify'>Passionate towards Full Stack Java Development ,enhance my skills 
-          to keep growing in this field.I have strong desire to learn web development.</p>
+          to keep growing in this field. I have strong desire to learn web development.</p>
           <br />
 
           {/* social media icons */}
@@ -53,7 +53,7 @@ const pic5= '/image_5.png';
       </div>
       <div className="right  mt-2 lg:mt-0" data-aos="zoom-out"
       >
-        <img className=' h-[470px] w-[750px] lg:h-[600px]' src={pic5} alt="" />
+        <img className=' h-[100%] w-[100%] md:h-[600px] md:w-[650px]' src={pic5} alt="" />
       </div>
     </div>
     <hr />  

@@ -12,7 +12,7 @@ const About = () => {
       <div className='flex px-7 py-4 my-20 lg:px-20 lg:my-24 flex-col'>
         <h1 className='font-extrabold text-5xl lg:text-5xl mb-3 lg:text-center lg:my-6' data-aos="fade-up">About</h1>
         <div className=' flex flex-col'>
-            <p className='text-sm md:text-xl text-justify font-medium' data-aos="slide-down">Hello❤ I'm a Deepak, dedicated and passionate professional with a strong background in Web development.I also solving Leetcode DSA problems in Java for problem solving.Currently,I solved 70+ Leetcode problems .My work is driven by a commitment to excellence and a desire to make a positive impact.
+            <p className='text-sm md:text-xl text-justify font-medium' data-aos="slide-down">Hello❤ I'm a Deepak, dedicated and passionate professional with a strong background in Web development.I also solving Leetcode DSA problems in Java for problem solving.Currently,I solved 95+ Leetcode problems .My work is driven by a commitment to excellence and a desire to make a positive impact.
               I believe in continuous learning and innovation.My approach combines creativity with practical solutions to addredd challenges and achieve outstanding results.I am always eager to collaborate, share knowledge and learn from others.  </p>
             <h1 className='text-4xl font-medium my-16 underline' data-aos="fade">Education</h1>
             <div className='Education-cards -z-10 flex flex-col space-y-14 lg:space-y-0 lg:space-x-20 lg:flex-row'>
